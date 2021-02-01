@@ -11,7 +11,7 @@ col = {
 if color >= 1 or color <=6:
     print(col[color], col[color - 1], col[color + 1])
 else:
-    print("input color 1 to 6!!")
+    print("input color 1 to 6!!!")
 
 
 
